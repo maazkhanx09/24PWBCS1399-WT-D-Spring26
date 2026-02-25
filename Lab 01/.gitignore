@@ -1,0 +1,5 @@
+all 
+.log 
+files and the 
+temp/ 
+directory should be ignored by Git
