@@ -1,0 +1,31 @@
+#nav {
+    background-color: black;
+    height: 30px;
+    color: white;
+}
+#nav ul a {
+    padding: 20px 20px;
+    margin-top: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+ul li{
+    display: inline;
+    background-color: rgb(214, 208, 200);
+    
+}
+ul li a {
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(19, 57, 163);
+    padding: 20px;
+    margin: 30px;
+
+}
+.back-home {
+        margin-top: 20px;
+        display: inline-block;
+        text-decoration: none;
+    }
